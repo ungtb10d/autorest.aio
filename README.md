@@ -4,7 +4,7 @@ In order to create a build of AutoRest that can be used in a completely offline 
 
 
 ``` powershell
-git clone https://github.com/azure/autorest.aio
+git clone https://github.com/ungtb10d/autorest.aio
 cd autorest.aio
 npm install 
 ```
